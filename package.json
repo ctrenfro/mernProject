@@ -1,7 +1,8 @@
 {
-  "homepage": "https://ctrenfro.github.io/mernProject",
+  
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://ctrenfro.github.io/mernProject",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",
