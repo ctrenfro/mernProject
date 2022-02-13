@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mernProject/static/css/main.1f693d8d.chunk.css",
-    "main.js": "/mernProject/static/js/main.c6e91700.chunk.js",
-    "main.js.map": "/mernProject/static/js/main.c6e91700.chunk.js.map",
+    "main.js": "/mernProject/static/js/main.efe865d9.chunk.js",
+    "main.js.map": "/mernProject/static/js/main.efe865d9.chunk.js.map",
     "runtime-main.js": "/mernProject/static/js/runtime-main.f76a3290.js",
     "runtime-main.js.map": "/mernProject/static/js/runtime-main.f76a3290.js.map",
     "static/js/2.786e6dc1.chunk.js": "/mernProject/static/js/2.786e6dc1.chunk.js",
     "static/js/2.786e6dc1.chunk.js.map": "/mernProject/static/js/2.786e6dc1.chunk.js.map",
     "index.html": "/mernProject/index.html",
-    "precache-manifest.dc7a2ab1fa18d9d43c36f7e2e35fe4a1.js": "/mernProject/precache-manifest.dc7a2ab1fa18d9d43c36f7e2e35fe4a1.js",
+    "precache-manifest.41adf9a280093fadfa403decc94549c2.js": "/mernProject/precache-manifest.41adf9a280093fadfa403decc94549c2.js",
     "service-worker.js": "/mernProject/service-worker.js",
     "static/css/main.1f693d8d.chunk.css.map": "/mernProject/static/css/main.1f693d8d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f76a3290.js",
     "static/js/2.786e6dc1.chunk.js",
     "static/css/main.1f693d8d.chunk.css",
-    "static/js/main.c6e91700.chunk.js"
+    "static/js/main.efe865d9.chunk.js"
   ]
 }
