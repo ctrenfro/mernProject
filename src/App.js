@@ -30,7 +30,7 @@ const App = () => {
   if (isLoggedIn) {
     routes = (
       <Switch>
-        <Route path="/" exact>
+        <Route path="/main" exact>
           <Users />
         </Route>
         <Route path="/:userId/places" exact>
